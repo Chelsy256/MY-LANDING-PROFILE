@@ -1,0 +1,48 @@
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color: rgb(89, 58, 228);
+    color: white;
+    padding: 10px 500px;
+    margin-bottom: 20px;
+    border: 1px solid   
+}
+.nav-links {
+    display: flex;
+    gap: 1rem;
+    list-style:none ;
+    
+}
+.nav-links a {
+    text-decoration: none;
+    color: black;
+}
+.herosection{
+    display:flex;
+    flex-direction:row;
+    margin: 0px;
+    gap: 5rem;
+    padding: 10px;
+    background-color: rgb(236, 194, 219);
+    border: 1px solid  rgb(241, 152, 234) 
+    
+    
+}
+.imagesection{
+    padding: 20px;
+    background-color: rgb(130, 235, 243);
+    border: 2px solid rgb(130, 135, 139)
+}
+
+.textsection{
+    text-align: center;
+    font-style: oblique;
+    padding-top: 30px;
+    background-color: rgb(131, 245, 239);
+    border: 2px solid rgb(113, 125, 134)
+    
+}
+*body{
+
+}
